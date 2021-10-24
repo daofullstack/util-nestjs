@@ -15,3 +15,5 @@ https://dev.to/sergey_telpuk/write-rbac-for-nestjs-1ike
 
 db access
 ## https://stackoverflow.com/questions/56888629/how-to-access-database-from-nestjs-guard
+
+## https://www.npmjs.com/package/nestjs-roles
