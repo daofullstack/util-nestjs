@@ -19,3 +19,5 @@ db access
 ## https://www.npmjs.com/package/nestjs-roles
 
 ## https://stackoverflow.com/questions/60733211/how-does-roleguard-works-in-nest-js-with-jwt
+
+## https://www.npmjs.com/package/nestjs-role-protected
